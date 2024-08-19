@@ -1,35 +1,10 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
+Hola, mi nombre es Lautaro Milrad y estoy cursando mi segundo año en la UNAHUR.
 
-Bienvenidxs a
-# Programación con objetos I
+Un poco sobre mi:
+    Tengo 39 años, 1 hijo de 10 años, vivo en pareja en Ramos Mejia. Llegué a la UNAHUR gracias a una compañera de trabajo y el apoyo de mi flia. Hace muchos años atras habia iniciado el CBC para Ing. Sistemas en UBA y por motivos personales termine abandonando para            trabajar a full.
+        ![LMuniforme](https://github.com/user-attachments/assets/4939740d-a51c-49ca-a5e0-5feb6996b658)
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
-
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+    Siempre fuí muy curioso en muchos aspectos y esto me llevo desde joven a interesarme en la programación. 
+    En la actualidad trabajo en una compañía de Telecomunicaciones ( esfera roja ) en Atención al cliente personalizada y ayudo bastante con temas de Hard y Soft dentro de lo que se en la sucursal. Hay un buen ambiente laboral y posibilidad de crecimiento. Me gusta la 
+    música, deportes, ciber-deportes, herramientas y los michis.
